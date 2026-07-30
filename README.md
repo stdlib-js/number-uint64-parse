@@ -73,7 +73,7 @@ To view installation and usage instructions specific to each branch build, be su
 var parseUint64 = require( '@stdlib/number-uint64-parse' );
 ```
 
-#### parseUint64( str\[, radix\] )
+#### parseUint64( str\[, radix] )
 
 Parses a string representation of a 64-bit unsigned integer.
 
